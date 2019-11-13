@@ -8,6 +8,7 @@ Occasionally a program will try and display off screen. Sometimes without a way 
 
 # Reference
 
+* PyHook documentation can be found at: http://pyhook.sourceforge.net/doc_1.5.0/pyhook.HookManager-module.html
 * Virtual Key code reference: https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 * Key identifiers can be referenced at: 
 * Reference for skeleton example of Python 3 keyboard event listener: https://github.com/techmetal-challenger/python-examples/blob/master/Keyboard%20Events/keybind.py
