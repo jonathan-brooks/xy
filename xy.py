@@ -1,8 +1,7 @@
 #   Author: Jonathan Brooks
 #   Created: 3-20-2018
-#   Updated: 3-21-2018
 #   Purpose: Repostion any selected window to 0,0 X Y position on the Main Display
-#   Use Case: Windows that are unmovable do to title bars outside screen space
+#   Use Case: Windows that are unmovable due to title bars outside screen space
 
 # pyHook Allows keyboard input when program is not in focus
 # win32gui allows pulling focused window properties
