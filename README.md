@@ -10,4 +10,4 @@ Occasionally a program will try and display off screen. Sometimes without a way 
 
 * Virtual Key code reference: https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 * Key identifiers can be referenced at: 
-* Reference for skeleton example of Python 3 keyboard event listener:
+* Reference for skeleton example of Python 3 keyboard event listener: https://github.com/techmetal-challenger/python-examples/blob/master/Keyboard%20Events/keybind.py
