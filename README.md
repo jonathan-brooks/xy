@@ -1,8 +1,6 @@
 # XY
 
-Listens for a keyboard event and moves the current focused window to the (0, 0) position on the main screen.
-
-__NOTE__: This program will run in the background until the key __CTRL__ + __Down Arrow__ combination is pressed to exit the program
+Listens for a keyboard event and moves the current focused window to the (0, 0) position on the main screen. This program will run in the background until the key __CTRL__ + __Down Arrow__ combination is pressed to exit the program
 
 # Use Case
 
