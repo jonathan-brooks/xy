@@ -9,6 +9,6 @@ Occasionally a program will try and display off screen. Sometimes without a way 
 
 Reference | Link
 --------- | ----
-PyHook Documentation | http://pyhook.sourceforge.net/doc_1.5.0/pyhook.HookManager-module.html
+PyHook Docs | http://pyhook.sourceforge.net/doc_1.5.0/pyhook.HookManager-module.html
 Virtual Key Codes | https://docs.microsoft.com/en-us/windows-hardware/customize/enterprise/keyboardfilter-key-names
 Skeleton Example | https://github.com/techmetal-challenger/python-examples/blob/master/Keyboard%20Events/keybind.py
